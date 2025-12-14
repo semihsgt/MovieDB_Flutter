@@ -1,5 +1,5 @@
 import 'package:dio/dio.dart';
-import 'package:moviedb_org/gitignore/api_constants.dart';
+import 'package:moviedb_org/api_constants.dart';
 import 'package:moviedb_org/models/movies_model.dart';
 
 class NetworkManager {
