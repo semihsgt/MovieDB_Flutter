@@ -25,7 +25,7 @@ class _ExplorePageState extends State<ExplorePage> {
                 mainAxisAlignment: MainAxisAlignment.center,
                 children: [
                   Image.asset(
-                    '/Users/semihsogut/StudioProjects/Flutter/moviedb_getx/assets/images/app_icon_deleted_background.png',
+                    'assets/images/app_icon_deleted_background.png',
                     height: 45,
                   ),
                   Text(
@@ -55,7 +55,7 @@ class _ExplorePageState extends State<ExplorePage> {
               mainAxisAlignment: MainAxisAlignment.center,
               children: [
                 Image.asset(
-                  '/Users/semihsogut/StudioProjects/Flutter/moviedb_getx/assets/images/app_icon_deleted_background.png',
+                  'assets/images/app_icon_deleted_background.png',
                   height: 45,
                 ),
                 Text("MovieDB", style: TextStyle(fontWeight: FontWeight.bold)),
