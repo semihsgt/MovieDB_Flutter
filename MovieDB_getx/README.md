@@ -13,6 +13,31 @@ Movie database app using **GetX** state management.
 - Dio (Network)
 - TMDB API
 
+## Project Structure
+```
+lib/
+├── reusable_widgets/
+│   ├── movie_card.dart
+│   └── custom_image.dart
+├── models/
+│   └── movies_model.dart
+├── core/
+│   └── network/
+│       └── network_manager.dart
+├── Pages/
+│   ├── explore_controller.dart
+│   ├── explore.dart
+│   ├── details_controller.dart
+│   ├── details.dart
+│   └── Library/
+│       ├── library_controller.dart
+│       ├── library.dart
+│       ├── favorites.dart
+│       └── watchlist.dart
+├── main_controller.dart
+└── main.dart
+```
+
 ## Run
 ```bash
 flutter pub get
