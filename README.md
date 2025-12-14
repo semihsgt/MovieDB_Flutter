@@ -19,3 +19,13 @@ Same movie app built with different state management approaches.
 ## Tech Stack
 - Flutter & Dart
 - TMDB API
+
+## Setup
+1. Choose your preffered state management project file
+2. Follow the guide in `lib/api_constants_example.dart`
+3. Run the following commands in terminal
+
+```bash
+flutter pub get
+flutter run
+```

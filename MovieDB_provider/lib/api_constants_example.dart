@@ -1,5 +1,5 @@
 // 1. Rename this file from api_constants_example.dart to api_constants.dart
-// 2. Replace 'YOUR_BEARER_TOKEN_HERE' with your actual Bearer token
+// 2. Replace 'YOUR_BEARER_TOKEN_HERE' with your actual themoviedb.org Bearer token
 
 final class ApiConstants {
   static const String _token =

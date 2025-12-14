@@ -38,7 +38,10 @@ lib/
 └── main.dart
 ```
 
-## Run
+## Setup
+1. Follow the guide in `lib/api_constants_example.dart`
+2. Run the following commands in terminal
+
 ```bash
 flutter pub get
 flutter run
